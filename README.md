@@ -1,1 +1,1 @@
-![alt tag](https://github.com/TumeniNodes/animod/blob/master/screenshot.png animod is an experimental mod for adding animated textures into texture packs (W.I.P.)
+(https://github.com/TumeniNodes/animod/blob/master/screenshot.png "animod is an experimental mod for adding animated textures into texture packs (W.I.P.)"
